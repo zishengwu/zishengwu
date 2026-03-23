@@ -12,12 +12,10 @@
   
   **💻全栈开发实践者  | 🛠️开源工具缔造者 | 🤖AI应用爱好者**
   
-  [![个人主页](https://img.shields.io/badge/B站-闭关修炼啊哈-00A1D6?logo=bilibili)](https://www.dlmachine.top/)
-  [![掘金博客](https://img.shields.io/badge/技术专栏-持续更新中-FF9800?logo=juejin)](https://juejin.cn/user/486421344552179)
-  [![知乎](https://img.shields.io/badge/脚本星球-智能课程-4CAF50)](https://www.zhihu.com/people/shen-du-xue-xi-ji-qi-82)
-    <a href="https://github.com/zishengwu">
-    <img src="https://img.shields.io/badge/⭐_GitHub-点亮星标支持-FFD700?logo=github&style=flat-square" alt="GitHub">
-  </a>
+  [![个人主页](https://img.shields.io/badge/博客-00A1D6?logo=blog)](https://www.dlmachine.top/)
+  [![掘金](https://img.shields.io/badge/掘金-FF9800?logo=juejin)](https://juejin.cn/user/486421344552179)
+  [![知乎](https://img.shields.io/badge/知乎-4CAF50?logo=zhihu)](https://www.zhihu.com/people/shen-du-xue-xi-ji-qi-82)
+
 </div>
 
 
@@ -41,6 +39,6 @@
 
 ### 联系我
 
-  [![Github]()](https://github.com/zishengwu)
-  [![Email]()](mailto:wuzsgdutee@gmail.com)
-  [![X]()](https://x.com/williamcri82977)
+  [![Github](https://img.shields.io/badge/Github-FFD700?logo=github&style=flat-square)](https://github.com/zishengwu)
+  [![Email](https://img.shields.io/badge/Email-C47616?logo=mail)](mailto:wuzsgdutee@gmail.com)
+  [![X](https://img.shields.io/badge/x-473D1A?logo=x)](https://x.com/williamcri82977)
